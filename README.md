@@ -1,4 +1,4 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=pengjianbo&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Jianbo Peng's github stats" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=pengjianbo&show_icons=true&include_all_commits=true" alt="Jianbo Peng's github stats" />
 
 ### 你好，我是波波 ![](assets/ghost1.png)
 
@@ -8,5 +8,5 @@
 - <img src="assets/QQ.png" style="zoom:80%;" />QQ ：172340021
 > 只管努力剩下的交给天意~👨‍👩‍👧
 ---
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pengjianbo&layout=compact&theme=material-palenight" /><a href="https://github.com/pengjianbo/GalleryFinal"><img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=pengjianbo&repo=GalleryFinal&theme=material-palenight" /></a>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pengjianbo&layout=compact" /><a href="https://github.com/pengjianbo/GalleryFinal"><img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=pengjianbo&repo=GalleryFinal" /></a>
 
