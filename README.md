@@ -8,5 +8,5 @@
 - <img src="assets/QQ.png" style="zoom:80%;" />QQ ：172340021
 > 只管努力剩下的交给天意~👨‍👩‍👧
 ---
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pengjianbo&layout=compact" /><a href="https://github.com/pengjianbo/GalleryFinal"><img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=pengjianbo&repo=GalleryFinal" /></a>
 
+<a href="https://github.com/pengjianbo/GalleryFinal"><img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=pengjianbo&repo=GalleryFinal&theme=material-palenight" /></a><a href="https://github.com/FinalTeam/RxGalleryFinal"><img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=FinalTeam&repo=RxGalleryFinal&theme=material-palenight" /></a>
