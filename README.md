@@ -6,7 +6,7 @@
 - <img src="assets/email.png" style="zoom:80%;" />邮箱：pengjianbosoft@gmail.com
 - <img src="assets/wechat.png" style="zoom:80%;" />微信：bbmaxcc
 - <img src="assets/QQ.png" style="zoom:80%;" />QQ ：172340021
-> 只管努力剩下的交给天意~👨‍👩‍👧
+> 生如蝼蚁当立鸿鹄之志，命薄似纸应有不屈之心。
 ---
 
 <a href="https://github.com/pengjianbo/GalleryFinal"><img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=pengjianbo&repo=GalleryFinal" /></a><a href="https://github.com/FinalTeam/RxGalleryFinal"><img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=FinalTeam&repo=RxGalleryFinal" /></a>
